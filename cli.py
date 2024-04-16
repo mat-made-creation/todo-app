@@ -2,7 +2,7 @@ import functions
 import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
-print ("It is", now)
+print("It is", now)
 while True:
     UserSelection = input('Type add, show, edit, complete, or exit to interact with your todo list:')
     UserSelection = UserSelection.strip()

@@ -1,10 +1,10 @@
-Drink tea
-Eat cheese
-Move to canada
+Drink lots of tea
+hi
+Move to Australia
+e
 Fix the computer
-Eat cheese
-Dance loudly
-Sing quietly
+Eat lost of cheese
+sing very quietly
 banana
 cheese
 add a new member
@@ -16,3 +16,5 @@ Drink tea
 Banana
 Eat banana
 Banana
+The end
+The end
